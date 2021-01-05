@@ -8,3 +8,10 @@ that have happened amongst the members in that blockchain’s network.
 
 In this analogy, each block in the blockchain represents a transaction,
 and each transaction is connected to the prior transaction to form the entire connected blockchain.
+
+Key Terms:
+* Block: A block is an individual transaction or piece
+of data that is being stored within the blockchain.
+* Blockchain: A blockchain is a continuously growing list (“chain”)
+of records (“block”), called blocks, which are linked chronologically
+and secured using cryptography.
