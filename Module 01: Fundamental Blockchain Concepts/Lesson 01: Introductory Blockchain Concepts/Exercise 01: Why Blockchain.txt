@@ -1,0 +1,6 @@
+The exchange of Bitcoin is possible due to an underlying technology that secures
+and simplifies transactions removing the need for a bank or a central authority.
+
+Anyone with an internet connection has the freedom to own and exchange this digital currency.
+
+The powerful architecture that drove this revolution was blockchain.
