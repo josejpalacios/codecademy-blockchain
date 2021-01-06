@@ -1,0 +1,9 @@
+Previous exercise details why another layer of security is needed to secure the blockchain from outside interference.
+
+Blockchain uses Proof-of-Work:
+* Makes it difficult for participants to modify blocks by re-calculating hashes.
+* Relies on bulletproof cryptography instead of anonymous participants to verify transactions.
+
+Key Terms:
+* Proof-of-Work: A security feature in blockchain to prevent attackers from easily taking over the blockchain. 
+* Trustless: A feature of blockchain that states how the system doesn’t rely on any participant to verify transactions.
