@@ -1,0 +1,7 @@
+Steps to Add Block
+1. Verify transaction: Confirm transactions haven't been modified.
+2. Establish consensus in network: Agree on transactions.
+
+Network would not always agree. Happens when some tries to share an invalid block.
+
+Keypoint: As long as mojority of computers verify transactions honestly, the blockchain remains secure.
