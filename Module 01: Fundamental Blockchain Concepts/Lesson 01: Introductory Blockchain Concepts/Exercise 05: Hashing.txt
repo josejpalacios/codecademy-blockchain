@@ -1,1 +1,7 @@
+Key Terms:
+* Deterministic: The same input will always produce the same output, but that output cannot produce the original input.
+* Hash: A calculated string of letters and numbers produced from a specific input.
+* Hash Function: A function that takes in an input of a random size, performs hashing on the input, and generates a seemingly random output of a fixed size, also known as the hash.
 
+Blockchain uses a Hash Function to generate a Hash with the Blocks data.
+The Hash cannot be used to get the original input.
