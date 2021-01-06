@@ -1,0 +1,17 @@
+Proof-of-Work introduces an additional layer of security through a difficult time-consuming math problem for a computer.
+
+To broadcast unconfirmed block, miners will need to solve a problem in order to broadcast their block. The problem
+is in a form of game involving hashing. Commonly used hash function SHA-256 is used for the problem.
+
+Process for Proof-of-Work:
+1. Guess a nonce value.
+2. Combine value with contents of block.
+3. Repeat until desired hash is generated.
+4. First miner to complete problem will broadcast their unconfirmed block with the correct nonce value.
+5. The rest of the network will than verify the calculation.
+6. If majority agree, the Proof-of-Word for block is completed.
+7. Block is now confirm; network moves onto next block.
+
+Key Terms:
+* Miners: Special participants who calculate the Proof-of-Work to mine new blocks.
+* Nonce: A number to be guessed by miners which when combined with the block produces an acceptable hash.
