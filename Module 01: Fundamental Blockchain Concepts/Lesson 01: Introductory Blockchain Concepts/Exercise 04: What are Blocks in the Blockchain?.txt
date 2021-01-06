@@ -1,0 +1,9 @@
+Blocks are building blocks of a blockchain.
+
+A block contains:
+- Hash: Code produced by combining all information within the block.
+- Previous Hash: Reference to previous block.
+- Timestamp: Time when block was created; determines location of block on blockchain.
+- Transaction Data: Record to be stored in the block.
+
+Reference to previous block is what creates the blockchain and makes the blockchain secure.
