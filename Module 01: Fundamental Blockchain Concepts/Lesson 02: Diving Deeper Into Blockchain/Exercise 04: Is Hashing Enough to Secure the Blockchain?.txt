@@ -1,0 +1,14 @@
+Block A with hash X123
+Block B with hash Y456
+Block C with hash Z789
+
+If Block A hash changes to 123X, then Block B will have a mismatch with previous hash value.
+To fix this, the previous hash of Block B has to be changed from X123 to 123X.
+
+Changing the previous hash of Block B will result in Block B's hash changing.
+The process will have to be repeated for all the following blocks.
+
+Doing the process will create a valid copy of the blockchain.
+
+Key Terms:
+* Recalculating Hashes: Replacing the incorrect hash with a “correct” one to validate the chain.
