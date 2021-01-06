@@ -1,0 +1,14 @@
+Longest chain is always the correct one. If someone creates a long chain with fake blocks, the network will
+have to accept the the new chain.
+
+Network assumes longest chain has most computational work done in Proo-of-Work for each block. It is reasonable for network
+to think that longest chain has the most proven record of transactions.
+
+Tampering with a block would require to solve Proof-of-Work for each following block in order to add tampered block into
+the network. While completing the Proof-of-Work for every block, newer blocks are being added at a faster rate.
+
+A block becomes more tamper-proof as new blocks are added to the blockchain. Proof-of-Work makes it hard for someone to
+get through the entire blockchain, and add a fake transaction.
+
+Key Terms:
+* Longest Chain: The most trusted chain with the largest amount of computational work done in calculating the Proof-of-Work.
