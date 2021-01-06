@@ -1,0 +1,12 @@
+Mempool: Location that unvalidated transactions get placed. These transactions get broadcasted to all computers in
+the blockchain network.
+
+Computers collect these transactions; but have a limited amount they can hold.
+
+When block is full, the next set of transactions wait in the mempool. At this point, block is unconfirmed, and the
+transactions in the block are invalidated.
+
+Key Terms:
+* Transactions: An exchange of value among participants on the blockchain network.
+* Participants: Individuals accessing the blockchain network through computers to exchange value. 
+* Unconfirmed: Blocks and transactions that are yet to be verified.
