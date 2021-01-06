@@ -1,0 +1,18 @@
+Key Terms:
+* Blockchain Network: The blockchain network and blockchain are terms used interchangeably.
+They represent the entire blockchain from the structure itself to the network that it is a part of.
+
+* Decentralization: The concept in which participants work together to
+validate transactions without relying on a central authority.
+
+* Participant: A client that owns a copy of the blockchain and verifies transactions across the network.
+
+In a blockchain:
+- There are many participants/computers in the network; each with their own copy of the blockchain.
+- Computers validate the blockchain when a block is being added.
+- 51% of computers must validate the new block is not fraudulent.
+- Once valid, the block gets added to every computer's blockchain.
+
+Having the majority of participants validate a new transaction,
+the blockchain removes the need for a central authority and
+automates the completion of transactions.
