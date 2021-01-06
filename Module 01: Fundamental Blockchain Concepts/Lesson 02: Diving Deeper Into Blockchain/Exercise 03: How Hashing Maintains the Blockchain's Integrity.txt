@@ -1,0 +1,11 @@
+Each block has a unique. Tampering with a block results in the unique hash changing.
+The following block contains the previous unchanged hash.
+
+Cause of the mismatch between hashing, the link between blocks is broken. This results
+in an invalid copy of the blockchain.
+
+This causes the records to be immutable.
+
+Key Terms:
+* Hashing: Generating a random string of characters from a given input.
+* Immutable: Something whose records can’t be changed.
