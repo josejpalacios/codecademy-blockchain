@@ -14,6 +14,7 @@ info = str(nonce) + str(new_transactions)
 proof = sha256((info).encode()).hexdigest()
 # printing proof
 print(proof)
+# 7b5ed8155d70293bb42ff9df339d62e63170c581cb7a26fb09a7306eaf1b676a
   
 # Task 4: finding a proof that has 2 leading zeros
 while(proof[:2] != '0' * difficulty):
@@ -28,3 +29,4 @@ final_proof = proof
 
 # printing final proof that was found
 print(final_proof)
+# 006d7590979a7a2177c9a9e5fcbe4314c567bcd84a5e5667931d593ec4f8ba98
