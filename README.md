@@ -8,4 +8,4 @@ I took this course in Januray 2021 during my spare time in order to further my k
 - Notes for Blockchain concepts
 - Code from Lesson Exercises to build a Blockchain
 ## Certificate
-![Alt text]()
+![Alt text](https://github.com/josejpalacios/codecademy-blockchain/blob/main/Certificate_of_Completion_Blockchain.jpg)
