@@ -1,5 +1,4 @@
-# Final verison of block.py from Exercise 12
-
+# Final verison of block.py
 import datetime
 from hashlib import sha256
 
